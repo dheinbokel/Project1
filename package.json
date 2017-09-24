@@ -1,0 +1,14 @@
+{
+  "name": "project1",
+  "version": "1.0.0",
+  "description": "week 1 and 2",
+  "main": "project1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Doug Heinbokel",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.7"
+  }
+}
